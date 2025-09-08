@@ -1,0 +1,7 @@
+{
+  "originalFile": "baz.dbw",
+  "chunks": ["baz.part1","baz.part2","baz.part3","baz.part4","baz.part5","baz.part6","baz.part7"],
+  "chunkSize": 1048576,
+  "TotalSize": 6680744,
+  "FileDateTime": 9/8/2025 4:58:03 AM
+}
