@@ -1,0 +1,7 @@
+{
+  "originalFile": "www.dbw",
+  "chunks": ["www.part1","www.part2","www.part3","www.part4","www.part5","www.part6","www.part7"],
+  "chunkSize": 1048576,
+  "TotalSize": 6680744,
+  "FileDateTime": 9/8/2025 5:04:12 AM
+}
